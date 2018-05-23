@@ -1,0 +1,8 @@
+name: Username into ID
+type: module
+description: View validator to convert usernames into IDs
+core: 8.x
+package: Views
+dependencies:
+  - views
+  - user

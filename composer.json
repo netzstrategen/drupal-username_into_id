@@ -1,0 +1,13 @@
+{
+  "name": "drupal/username_into_id",
+  "type": "drupal-module",
+  "description": "Views validator to convert usernames into IDs.",
+  "keywords": ["Drupal", "Views", "Validator", "User"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/username_into_id",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/username_into_id",
+    "source": "http://cgit.drupalcode.org/username_into_id"
+  },
+  "minimum-stability": "dev"
+}
